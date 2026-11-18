@@ -452,3 +452,25 @@ Docs/Screens/Chats/Zabar_Heavenreach_chat/1118_1235_064.jpg
 Docs/Screens/Chats/Zabar_Heavenreach_chat/1118_1235_065.jpg
 Docs/Screens/Chats/Zabar_Heavenreach_chat/1118_1235_066.jpg
 Docs/Screens/Chats/Zabar_Heavenreach_chat/1118_1235_067.jpg
+# 2026-11-18 maps session: older Heavenreach map shots replaced by Docs/Screens/Maps/Heavenreach_2026-11-18 (outline pass)
+Docs/Screens/Heavenreach_2026-11-18/01_plaza_flat.jpg
+Docs/Screens/Heavenreach_2026-11-18/02_overview_forest_ring.jpg
+Docs/Screens/Heavenreach_2026-11-18/03_play_street_walker.jpg
+Docs/Screens/Heavenreach_2026-11-18/04_street_to_forest.jpg
+Docs/Screens/Heavenreach_2026-11-18/05_lantern_square.jpg
+Docs/Screens/Heavenreach_2026-11-18/06_sky_market.jpg
+Docs/Screens/Heavenreach_2026-11-18/07_bell_tower_square.jpg
+Docs/Screens/Heavenreach_2026-11-18/08_garden_square.jpg
+Docs/Screens/Heavenreach_2026-11-18/09_flank_banner_street.jpg
+Docs/Screens/Heavenreach_2026-11-18/10_plaza_warm.jpg
+Docs/Screens/Heavenreach_2026-11-18/11_overview.jpg
+Docs/Screens/Heavenreach_2026-11-18/12_flank_windows_street.jpg
+Docs/Screens/Heavenreach_2026-11-18/13_crossing_windows.jpg
+Docs/Screens/Heavenreach_2026-11-18/14_lantern_quarter_street.jpg
+Docs/Screens/Heavenreach_2026-11-18/15_play_plaza.jpg
+Docs/Screens/Heavenreach_2026-11-18/16_play_lantern_quarter.jpg
+Docs/Screens/Heavenreach_2026-11-18/17_play_bell_tower.jpg
+Docs/Screens/Heavenreach_2026-11-18/18_play_street.jpg
+Docs/Screens/MapSims_2026-11-18/heavenreach_arrival_before.jpg
+Docs/Screens/MapSims_2026-11-18/ipad_heavenreach.jpg
+Docs/Screens/MapSims_2026-11-18/ipad_heavenreach_plaza.jpg
