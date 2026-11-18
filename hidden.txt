@@ -1,0 +1,1 @@
+# Project paths of images to keep OFF the site (one per line), e.g. old map shots replaced by a newer recheck tour.
