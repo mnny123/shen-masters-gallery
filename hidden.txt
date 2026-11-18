@@ -546,3 +546,7 @@ Docs/Previews/City/City_CornerShop.png
 Docs/Previews/City/City_TownhouseC.png
 Docs/Previews/City/City_TownhouseB.png
 Docs/Previews/City/City_TownhouseA.png
+# 2026-11-18 Yorkhaven chat: Mount Kukaro before the layout rework (gate moved, shelf turned), and a near-black frame
+Docs/Screens/Maps/Yorkhaven_2026-11-18/11_mount_kukaro_from_city.jpg
+Docs/Screens/Maps/Yorkhaven_2026-11-18/12_kukaro_path_player.jpg
+Docs/Screens/Maps/Kukaro_2026-11-18/03_hidden_gate_close.jpg
