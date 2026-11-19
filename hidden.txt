@@ -550,3 +550,8 @@ Docs/Previews/City/City_TownhouseA.png
 Docs/Screens/Maps/Yorkhaven_2026-11-18/11_mount_kukaro_from_city.jpg
 Docs/Screens/Maps/Yorkhaven_2026-11-18/12_kukaro_path_player.jpg
 Docs/Screens/Maps/Kukaro_2026-11-18/03_hidden_gate_close.jpg
+# 2026-11-19 Yorkhaven chat: superseded by the newer tours (stand-ins, old towers, old Kukaro climb)
+Docs/Screens/Maps/Yorkhaven_2026-11-18/01_harbour_overview.jpg
+Docs/Screens/Maps/Yorkhaven_2026-11-18/02_city_aerial.jpg
+Docs/Screens/Maps/Yorkhaven_2026-11-18/05_harbour_avenue_street.jpg
+Docs/Screens/Maps/Yorkhaven_2026-11-18/08_downtown_towers.jpg
