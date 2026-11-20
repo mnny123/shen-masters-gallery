@@ -555,3 +555,4 @@ Docs/Screens/Maps/Yorkhaven_2026-11-18/01_harbour_overview.jpg
 Docs/Screens/Maps/Yorkhaven_2026-11-18/02_city_aerial.jpg
 Docs/Screens/Maps/Yorkhaven_2026-11-18/05_harbour_avenue_street.jpg
 Docs/Screens/Maps/Yorkhaven_2026-11-18/08_downtown_towers.jpg
+Docs/Screens/Maps/GreedmoorIsle_2026-11-18/_superseded/20_mazzora_wall_walk.jpg
