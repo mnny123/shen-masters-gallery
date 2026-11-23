@@ -773,3 +773,9 @@ Docs/Marketing/TikTok_2026-11-23/kukaro_9x16/K04_kukaro_mansion_front_fountain.j
 Docs/Marketing/TikTok_2026-11-23/kukaro_9x16/K05_kukaro_estate_gardens.jpg
 Docs/Marketing/TikTok_2026-11-23/kukaro_9x16/K06_kukaro_climb_overview.jpg
 Docs/Marketing/TikTok_2026-11-23/kukaro_9x16/K07_kukaro_testing_gate.jpg
+Docs/Marketing/TikTok_2026-11-23/all/KK_mtn_01.png
+Docs/Marketing/TikTok_2026-11-23/all/KK_mtn_02.png
+Docs/Marketing/TikTok_2026-11-23/all/KK_mtn_03.png
+Docs/Marketing/TikTok_2026-11-23/all/KK_mtn_04.png
+Docs/Marketing/TikTok_2026-11-23/kukaro_9x16/K08_kukaro_whole_mountain_day.jpg
+Docs/Marketing/TikTok_2026-11-23/kukaro_9x16/K09_kukaro_whole_mountain_sunset.jpg
